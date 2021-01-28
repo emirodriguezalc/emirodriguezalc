@@ -6,7 +6,7 @@
 ### <div align="center">I'm Emilia, a full-time full-stack developer 👨‍💻 working remotely</div>  
   
 
-- 🔭 I’m currently working on [Gay pokedex](https://github.com/emirodriguezalc/pokedex)  
+- 🔭 I’m currently working on [My portfolio page](https://github.com/emirodriguezalc/portfolio)  
   
 
 - 🌱 I’m currently learning how to make video games!  
