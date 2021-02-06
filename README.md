@@ -6,10 +6,10 @@
 ### <div align="center">I'm Emilia, a full-time full-stack developer 👨‍💻 working remotely</div>  
   
 
-- 🔭 I’m currently working on [My portfolio page](https://emilias-portfolio-pag.herokuapp.com/)  
+- 🔭 Check out [My portfolio page](https://emilias-portfolio-pag.herokuapp.com/)  
   
 
-- 🌱 I’m currently learning how to make video games!  
+- 🌱 I’m currently working on [My social media app](https://github.com/emirodriguezalc/social-media-app)!  
   
 
 - ⚡ Fun fact: I totally love cars  
