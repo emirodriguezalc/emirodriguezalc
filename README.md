@@ -6,7 +6,7 @@
 ### <div align="center">I'm Emilia, a full-time full-stack developer 👨‍💻 working remotely</div>  
   
 
-- 🔭 I’m currently working on [My portfolio page](https://github.com/emirodriguezalc/portfolio)  
+- 🔭 I’m currently working on [My portfolio page](https://emilias-portfolio-pag.herokuapp.com/)  
   
 
 - 🌱 I’m currently learning how to make video games!  
