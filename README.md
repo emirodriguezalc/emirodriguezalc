@@ -4,9 +4,7 @@
   
 
 ### <div align="center">I'm Emilia, a full-time full-stack developer 👨‍💻 working remotely</div>  
-  
-
-- 🔭 Check out [My portfolio page](https://emilias-portfolio-pag.herokuapp.com/)  
+ 
   
 
 - ⚡ Fun fact: I totally love cars  
